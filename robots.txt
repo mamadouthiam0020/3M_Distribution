@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Remplacer par le domaine définitif avant la mise en ligne
+Sitemap: https://www.3mdistribution.com/sitemap.xml
